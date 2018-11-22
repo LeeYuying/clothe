@@ -4,8 +4,8 @@
 ### 2.全部页面都使用固定版心
 ### 3.用jQuery实现轮播图、tab栏、小图放大等功能
 
-以下是我负责页面的截图
-<img src="https://github.com/LeeYuying/clothe/blob/master/1.png" width="300"/>
-<img src="https://github.com/LeeYuying/clothe/blob/master/2.png" width="300"/>
-<img src="https://github.com/LeeYuying/clothe/blob/master/3.png" width="300"/>
+#### 以下是我负责页面的截图
+<img src="https://github.com/LeeYuying/clothe/blob/master/1.png" width="300"/><br/>
+<img src="https://github.com/LeeYuying/clothe/blob/master/2.png" width="300"/><br/>
+<img src="https://github.com/LeeYuying/clothe/blob/master/3.png" width="300"/><br/>
 <img src="https://github.com/LeeYuying/clothe/blob/master/4.png" width="300"/>
